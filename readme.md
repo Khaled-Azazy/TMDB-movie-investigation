@@ -1,6 +1,7 @@
 # TMDB Movie Dataset Analysis
 This project aims to analyze the TMDB movie dataset to provide insights to the movie industry on how to earn more profits. The dataset contains information on about 10,000 movies, including their budget, revenue, runtime, genres, production companies, and release dates.
 
+
 # Tools Used
 To perform the analysis, we used the following tools:
 
